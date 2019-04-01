@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94139507172",
+    "firebase_url": "https://canopy-3dd02.firebaseio.com",
+    "project_id": "canopy-3dd02",
+    "storage_bucket": "canopy-3dd02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94139507172:android:e2cc3e39f7a569d5",
+        "android_client_info": {
+          "package_name": "com.a000webhostapp.chaitumaverick.canopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94139507172-t6g6mqp9vkgdvovpu1900gaej1nbkhnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a000webhostapp.chaitumaverick.canopy",
+            "certificate_hash": "d51489feefc203cbc4847d9b89129c9cd0bfbfda"
+          }
+        },
+        {
+          "client_id": "94139507172-6qe6qhcm502jvmjviv8d5ggetsdg0qed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVGQ9J25o31MOXsDlap0meGbS1LpQE0TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94139507172-6qe6qhcm502jvmjviv8d5ggetsdg0qed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
